@@ -127,6 +127,7 @@ body가 가진 width, height 를 100% 모두 사용하겠다!!
     color: #fff;
     text-shadow: 0 20px 0 rgba(150, 150, 150, 0.8);
     font-size: 170px;
+    font-weight: 600;
     padding-top: 150px;
 }
 
